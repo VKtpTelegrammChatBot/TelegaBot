@@ -149,10 +149,10 @@ public class Bot extends TelegramLongPollingBot {
     }
 
     public String getBotUsername() {
-        return "AlexussahaFirstbot";
+        return "#PUT BOT'S NAME";
     }
 
     public String getBotToken() {
-        return "1279105789:AAHCZJaBVf3-nzWRrs-CU-56xE2Q1Mfw4Co";
+        return "PUT BOT'S TOKEN";
     }
 }
